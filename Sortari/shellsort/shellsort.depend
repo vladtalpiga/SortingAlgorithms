@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646949586 source:c:\users\vlad\desktop\sem 2\structuri de date\tema 1\radixsort\shellsort\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<random>
+
+1646949586 source:c:\users\vlad\desktop\tema sortari\shellsort\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<random>
+

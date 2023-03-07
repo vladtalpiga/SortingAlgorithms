@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647284532 source:c:\users\vlad\desktop\tema sortari\insertionsort\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<random>
+

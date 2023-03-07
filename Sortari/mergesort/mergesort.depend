@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646945744 source:c:\users\vlad\desktop\sem 2\structuri de date\tema 1\mergesort\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<random>
+
